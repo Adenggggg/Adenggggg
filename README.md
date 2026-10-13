@@ -1,12 +1,8 @@
 <div align="center">
 
-<a href="https://github.com/Adenggggg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=40&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=800&height=90&lines=adriane+frane" alt="adriane frane" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=adriane%20frane&fontColor=FFFFFF&fontSize=48&fontAlignY=50&height=110" alt="adriane frane" />
 
-<a href="https://github.com/Adenggggg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1200&color=22D081&center=true&vCenter=true&width=800&height=50&lines=Software+Engineer+building+enterprise+web+applications;AI+Engineer+turning+LLMs+into+real+products;Clean+code.+Scalable+systems.+Shipped+fast." alt="tagline" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=Software%20Engineer%20%7C%20AI%20Engineer&fontColor=22D081&fontSize=22&fontAlignY=50&height=60" alt="Software Engineer | AI Engineer" />
 
 <br/>
 
