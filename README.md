@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=adriane%20frane&fontColor=FFFFFF&fontSize=48&fontAlignY=50&height=110" alt="adriane frane" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=adriane%20frane&fontColor=FFFFFF&fontSize=48&fontAlignY=50&height=110" alt="Adriane Frane" />
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&text=Software%20Engineer%20%7C%20AI%20Engineer&fontColor=22D081&fontSize=22&fontAlignY=50&height=60" alt="Software Engineer | AI Engineer" />
 
