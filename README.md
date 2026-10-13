@@ -4,13 +4,9 @@
 
 <br/>
 
-<b>
-<a href="https://adriane-dev.vercel.app/home">Portfolio</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/adriane-frane-9b80b8285/">LinkedIn</a>
-&nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="https://github.com/Adenggggg">GitHub</a>
-</b>
+<a href="https://adriane-dev.vercel.app/home"><img src="./btn-portfolio.svg" alt="Portfolio" height="44" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/adriane-frane-9b80b8285/"><img src="./btn-linkedin.svg" alt="LinkedIn" height="44" /></a>&nbsp;&nbsp;
+<a href="https://github.com/Adenggggg"><img src="./btn-github.svg" alt="GitHub" height="44" /></a>
 
 <br/><br/>
 
