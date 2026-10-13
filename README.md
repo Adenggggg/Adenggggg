@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Adriane Frane - Software Engineer | AI Engineer" width="100%" />
+<img src="./banner(1).svg" alt="Adriane Frane - Software Engineer | AI Engineer" width="100%" />
 
 <br/><br/>
 
